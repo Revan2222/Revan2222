@@ -1,6 +1,18 @@
+<div align="center">
+  
+# Hi 👋 , I'm **Revan R** 
+
+**DevOps Engineer ⚙️ | Cloud Architect ☁️ | Software Developer 💻 | Tech Enthusiast 🚀**
+
+![Banner](https://github.com/Revan2222/Revan2222/blob/72ac017324811ebb159a9946c75d38792b9f5b10/banner.gif)
+
+</div>
+
+---
+
 # 💫 About Me:
-![Banner](https://i.pinimg.com/originals/2a/8b/6d/2a8b6d58b781dae308a3ac2040506c66.gif)
-🌱 Currently learning DevOps, AWS Cloud, Python,SQL<br>🤝 Seeking assistance with DevOps<br>💬 Ask me about AWS, DevOps<br>📄 Know about my skills https://drive.google.com/file/d/13fxowQdLdV9xk0hSK3GuryNLGx6LfkIe/view?usp=drive_link<br>📫 Reach me at revanofficial22@gmail.com<br>⚡ Fun fact 🖥️ Why do programmers prefer dark mode? Because light attracts bugs!
+📚 I'm a technology enthusiast with a strong focus on **AWS** and **DevOps**, dedicated to building efficient, scalable solutions through cloud computing and automation. 🌩️🚀<br>
+🌱 Currently learning DevOps, AWS Cloud, Python, SQL<br>🤝 Seeking assistance with DevOps<br>💬 Ask me about AWS, DevOps<br>📄 Know about my skills [REVAN R](https://drive.google.com/file/d/13fxowQdLdV9xk0hSK3GuryNLGx6LfkIe/view?usp=drive_link)<br>📫 Reach me at revanofficial22@gmail.com<br>⚡ Fun fact 🖥️ Why do programmers prefer dark mode? Because light attracts bugs!
 
 
 ## 🌐 Socials:
