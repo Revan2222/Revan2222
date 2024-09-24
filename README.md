@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hi 👋 , I'm **Revan R** 
+# Hi 👋 , I'm **Revan R**
 
-**DevOps Engineer ⚙️ | Software Developer 💻 **
+**DevOps Engineer ⚙️ | Software Developer 💻**
 
 ![Banner](https://github.com/Revan2222/Revan2222/blob/72ac017324811ebb159a9946c75d38792b9f5b10/banner.gif)
 
