@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 📚 I'm a technology enthusiast with a strong focus on **AWS** and **DevOps**, dedicated to building efficient, scalable solutions through cloud computing and automation. 🌩️🚀<br>
-🌱 Currently learning DevOps, AWS Cloud, Python <br>🤝 Seeking assistance with DevOps<br>💬 Ask me about AWS, DevOps<br>📄 Know about my skills [REVAN R](https://drive.google.com/file/d/13fxowQdLdV9xk0hSK3GuryNLGx6LfkIe/view?usp=drive_link)<br>📫 Reach me at revanofficial22@gmail.com<br>⚡ Fun fact 🖥️ Why do programmers prefer dark mode? Because light attracts bugs!
+🌱 Currently learning DevOps, AWS Cloud, Python <br>🤝 Seeking assistance with DevOps<br>💬 Ask me about AWS, DevOps<br>📄 Know about my skills [REVAN R](https://drive.google.com/file/d/14BnjT2xa7kZvqaED3W5OR2-5P2JBJkNf/view?usp=drive_link)<br>📫 Reach me at revanofficial22@gmail.com<br>⚡ Fun fact 🖥️ Why do programmers prefer dark mode? Because light attracts bugs!
 
 
 ## 🌐 Socials:
